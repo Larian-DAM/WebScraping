@@ -1,1 +1,5 @@
-com\mycompany\webscaping\PriceMonitor.class
+com\mycompany\webscaping\util\ConfigLoader.class
+com\mycompany\webscaping\scraper\WebScraper.class
+com\mycompany\webscaping\scraper\ProductInfo.class
+com\mycompany\webscaping\util\DataStorage.class
+com\webscraping\app\PriceMonitor.class
